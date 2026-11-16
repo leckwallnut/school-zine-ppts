@@ -30,13 +30,13 @@ The skill is the folder artifact-template-school-zine-ppts in that repository. C
 
 ## Use it
 
-In Codex, name the skill with `$`:
+Ask for the skill by name, in whatever form your assistant uses: `$artifact-template-school-zine-ppts` in Codex, `/artifact-template-school-zine-ppts` in Claude Code, or plain words ("Use the School Zine PPTs skill") anywhere else. For example:
 
 ```text
-Use $artifact-template-school-zine-ppts to create a 10-slide presentation for upper-intermediate English learners on giving reasons and pointing to details. The lesson is 50 minutes. Use a mix of reading, pair discussion and a short writing task. Choose varied layouts and images, keep all text editable, check every slide, and give me the PPTX.
+Use the School Zine PPTs skill (artifact-template-school-zine-ppts) to create a 10-slide presentation for upper-intermediate English learners on giving reasons and pointing to details. The lesson is 50 minutes. Use a mix of reading, pair discussion and a short writing task. Choose varied layouts and images, keep all text editable, check every slide, and give me the PPTX.
 ```
 
-In other assistants, ask in ordinary words ("Use the School Zine PPTs skill to ...") or paste `Read ./artifact-template-school-zine-ppts/SKILL.md and use that skill for this task.` before your request.
+If your assistant has no skills feature, open the unzipped folder as its working folder and paste `Read ./artifact-template-school-zine-ppts/SKILL.md and use that skill for this task.` before your request.
 
 ## What is inside
 
@@ -53,7 +53,8 @@ In other assistants, ask in ordinary words ("Use the School Zine PPTs skill to .
 
 - This is a compressed copy sized for slides. Opaque pictures are JPEG and transparent pictures stay PNG; the catalog records each picture's size and checksum.
 - The artwork is AI-generated illustration, not documentary evidence. Cite real sources separately when a lesson needs evidence.
-- The slides use Arial. You need PowerPoint (or another editor) to open and adapt the decks, and an assistant that can write PowerPoint files to create new ones.
+- The skill is assistant-neutral: it is a standard `SKILL.md` folder, and the instructions name no particular tool. It was built with Codex and has not been tested in other assistants yet.
+- The slides use Arial. You need PowerPoint (or another editor) to open and adapt the decks, and an assistant that can write PowerPoint files (through a presentation tool, python-pptx or pptxgenjs) to create new ones.
 
 ## License
 
