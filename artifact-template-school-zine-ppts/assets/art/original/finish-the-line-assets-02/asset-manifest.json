@@ -1,0 +1,92 @@
+{
+  "title": "Finish the Line",
+  "pack": 2,
+  "backgrounds": [
+    {
+      "id": "surprise-reveal",
+      "name": "Surprise Reveal",
+      "use": "Transition from committed endings to the illustrated scenario",
+      "alt": "A hand peels back a coral paper corner to reveal a burst of marigold and mint.",
+      "image": "backgrounds/surprise-reveal.jpg",
+      "transparent": false,
+      "textPlacement": "left",
+      "textSafeWidthPercent": 45
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "cardboard-arcade",
+      "name": "The Cardboard Arcade",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "A student tilts a handmade cardboard arcade game as a classmate watches a marble roll through the maze.",
+      "image": "scenarios/cardboard-arcade.jpg",
+      "transparent": false
+    },
+    {
+      "id": "book-drive",
+      "name": "The Book Drive",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Three classmates approach a student crouching beside two boxes of books outside the library.",
+      "image": "scenarios/book-drive.jpg",
+      "transparent": false
+    },
+    {
+      "id": "tiny-greenhouse-door",
+      "name": "The Greenhouse Door",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "A student with a watering can spots a tiny mint door and a trail of muddy footprints at the base of a large planter.",
+      "image": "scenarios/tiny-greenhouse-door.jpg",
+      "transparent": false
+    },
+    {
+      "id": "trophy-case-duck",
+      "name": "The Trophy Case Duck",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "A student in mint glasses crouches beside a yellow rubber duck beneath a glass case full of trophies.",
+      "image": "scenarios/trophy-case-duck.jpg",
+      "transparent": false
+    },
+    {
+      "id": "wrong-group-chat",
+      "name": "The Wrong Group Chat",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two friends on a school bench look at a phone showing colored chat bubbles.",
+      "image": "scenarios/wrong-group-chat.jpg",
+      "transparent": false
+    },
+    {
+      "id": "last-seat",
+      "name": "The Last Window Seat",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two students pause at the last open window seat on a school bus.",
+      "image": "scenarios/last-seat.jpg",
+      "transparent": false
+    },
+    {
+      "id": "tortoise-on-the-move",
+      "name": "Tortoise on the Move",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two students watch a small tortoise cross the hallway near an open library door.",
+      "image": "scenarios/tortoise-on-the-move.jpg",
+      "transparent": false
+    }
+  ],
+  "props": [
+    {
+      "id": "context-magnifier",
+      "name": "Context Magnifier",
+      "use": "Cue to cite a specific scene detail when explaining an ending",
+      "alt": "A magnifying glass with a coral handle and pale mint lens.",
+      "image": "props/context-magnifier.png",
+      "transparent": true
+    },
+    {
+      "id": "traditional-ending-book",
+      "name": "Traditional Ending Book",
+      "use": "Cue to reveal a proverb’s traditional ending after discussion",
+      "alt": "An open marigold book with blank cream pages and a mint bookmark.",
+      "image": "props/traditional-ending-book.png",
+      "transparent": true
+    }
+  ]
+}

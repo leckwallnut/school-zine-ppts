@@ -1,0 +1,96 @@
+{
+  "title": "Finish the Line",
+  "pack": 1,
+  "backgrounds": [
+    {
+      "id": "finish-the-line-cover",
+      "name": "Finish the Line cover",
+      "use": "Catalog and game opening",
+      "alt": "Three students react to a paper slip at their classroom table.",
+      "image": "backgrounds/finish-the-line-cover.jpg",
+      "transparent": false,
+      "textPlacement": "left",
+      "textSafeWidthPercent": 36
+    },
+    {
+      "id": "writing-desk",
+      "name": "Writing Desk",
+      "use": "Writing phase and timer",
+      "alt": "Blank slips, a coral pencil and a mint eraser rest on the right side of an indigo desk.",
+      "image": "backgrounds/writing-desk.jpg",
+      "transparent": false,
+      "textPlacement": "left",
+      "textSafeWidthPercent": 51
+    },
+    {
+      "id": "team-scoreboard",
+      "name": "Team Scoreboard",
+      "use": "Round recap and final scores",
+      "alt": "Clipped answer slips sit against a burst of colored paper on a dark indigo background.",
+      "image": "backgrounds/team-scoreboard.jpg",
+      "transparent": false,
+      "textPlacement": "left",
+      "textSafeWidthPercent": 44
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "presentation-glitch",
+      "name": "Presentation Glitch",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Three students look worried over a laptop while holding a printed outline and a phone with a picture.",
+      "image": "scenarios/presentation-glitch.jpg",
+      "transparent": false
+    },
+    {
+      "id": "paper-bridge",
+      "name": "The Paper Bridge",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "A folded paper bridge sags under a blue weight as two students lean over the desk.",
+      "image": "scenarios/paper-bridge.jpg",
+      "transparent": false
+    },
+    {
+      "id": "comic-credit",
+      "name": "Credit for the Comic",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two students share a tense look in front of their comic about a pigeon and a skateboard.",
+      "image": "scenarios/comic-credit.jpg",
+      "transparent": false
+    },
+    {
+      "id": "courtyard-rainout",
+      "name": "The Rained-Out Fair",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two students watch rain hit the colorful flags and empty stalls of the school fair.",
+      "image": "scenarios/courtyard-rainout.jpg",
+      "transparent": false
+    },
+    {
+      "id": "stage-blackout",
+      "name": "Just Before the Lights",
+      "use": "Reveal the scenario after teams commit to their endings",
+      "alt": "Two students pause in the wings beside a red curtain and look toward each other as the stage goes dark.",
+      "image": "scenarios/stage-blackout.jpg",
+      "transparent": false
+    }
+  ],
+  "props": [
+    {
+      "id": "committed-answer",
+      "name": "Committed Answer",
+      "use": "Cue that written endings are locked",
+      "alt": "A blank paper slip peeks out of a coral envelope.",
+      "image": "props/committed-answer.png",
+      "transparent": true
+    },
+    {
+      "id": "team-microphone",
+      "name": "Team Microphone",
+      "use": "Cue to read and explain an ending",
+      "alt": "A yellow handheld microphone with a dark mesh head and coral band.",
+      "image": "props/team-microphone.png",
+      "transparent": true
+    }
+  ]
+}

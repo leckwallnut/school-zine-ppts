@@ -1,0 +1,53 @@
+{
+  "title": "Finish the Line",
+  "rounds": [
+    {
+      "id": "presentation-glitch",
+      "name": "Presentation Glitch",
+      "promptType": "Advice",
+      "opener": "When your plan falls apart, …",
+      "situation": "Your group’s presentation file won’t open. You present in five minutes. One person still has the outline, and another has the pictures.",
+      "discussion": "What could your group do with the outline and pictures? How does your finished line help?",
+      "imageId": "presentation-glitch"
+    },
+    {
+      "id": "paper-bridge",
+      "name": "The Paper Bridge",
+      "promptType": "Proverb",
+      "opener": "A stitch in time …",
+      "situation": "Your group’s paper bridge bends under the first weight. The judges arrive in ten minutes. You have spare paper and tape.",
+      "discussion": "What does your ending suggest the group do with the ten minutes they have left?",
+      "wordHint": "A stitch is a loop of thread that holds pieces of fabric together.",
+      "traditionalEnding": "saves nine.",
+      "traditionalMeaning": "Fix a small problem early so it takes less work to solve.",
+      "imageId": "paper-bridge"
+    },
+    {
+      "id": "comic-credit",
+      "name": "Credit for the Comic",
+      "promptType": "Advice",
+      "opener": "The hardest part of working together is …",
+      "situation": "You and a friend made a comic. The school puts it on display. At lunch, everyone starts telling your friend how good their comic is. Nobody knows you helped.",
+      "discussion": "How would your ending help you decide what to say to your friend?",
+      "imageId": "comic-credit"
+    },
+    {
+      "id": "courtyard-rainout",
+      "name": "The Rained-Out Fair",
+      "promptType": "Announcement",
+      "opener": "Attention, everyone. There’s been a change. …",
+      "situation": "Rain starts just before the outdoor school fair. The tables are getting wet. You have one minute to tell everyone what’s happening. The gym is open.",
+      "discussion": "If people heard your announcement, what would they know or do next? Which detail might they still need?",
+      "imageId": "courtyard-rainout"
+    },
+    {
+      "id": "stage-blackout",
+      "name": "Just Before the Lights",
+      "promptType": "Dialogue",
+      "opener": "I took a deep breath and said, “…”",
+      "situation": "It’s dress rehearsal. You are about to walk onstage when the lights go out. A younger student next to you quietly says, “I’m scared.”",
+      "discussion": "How would the younger student react if they heard your line? Which detail in the scene makes you think that?",
+      "imageId": "stage-blackout"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "kind": "presentation",
+  "reference": "assets/reference.pptx",
+  "preview": "assets/preview.png",
+  "layoutLibraryPath": "assets/layout-library.pptx",
+  "assetCatalogPath": "assets/art/asset-catalog.json",
+  "designGuidePath": "references/design-system.md",
+  "layoutGuidePath": "references/layouts.md",
+  "imageGuidePath": "references/image-library.md"
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "School Zine PPTs"
+  short_description: "Create presentations with the School Zine PPTs template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-school-zine-ppts to create a presentation with this template."
+policy:
+  allow_implicit_invocation: true

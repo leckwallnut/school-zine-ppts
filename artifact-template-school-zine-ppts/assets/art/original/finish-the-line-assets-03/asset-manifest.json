@@ -1,0 +1,88 @@
+{
+  "title": "Finish the Line",
+  "pack": 3,
+  "backgrounds": [],
+  "scenarios": [],
+  "props": [
+    {
+      "id": "writing-pencil",
+      "name": "Writing Pencil",
+      "use": "Writing phase, answer entry, or writing prompts",
+      "alt": "A marigold pencil with a coral eraser and sharpened graphite tip.",
+      "image": "props/writing-pencil.png",
+      "transparent": true
+    },
+    {
+      "id": "round-hourglass",
+      "name": "Round Hourglass",
+      "use": "Writing timer, thinking time, or a brief pause",
+      "alt": "Coral sand falls through a mint hourglass with marigold caps.",
+      "image": "props/round-hourglass.png",
+      "transparent": true
+    },
+    {
+      "id": "discussion-bubbles",
+      "name": "Discussion Bubbles",
+      "use": "Pair discussion, team planning, or a class debrief",
+      "alt": "Two overlapping blank speech bubbles in mint and coral.",
+      "image": "props/discussion-bubbles.png",
+      "transparent": true
+    },
+    {
+      "id": "reveal-padlock",
+      "name": "Open Padlock",
+      "use": "Reveal a scenario, unlock a clue, or show an answer",
+      "alt": "A coral padlock with its marigold shackle open.",
+      "image": "props/reveal-padlock.png",
+      "transparent": true
+    },
+    {
+      "id": "hint-light-bulb",
+      "name": "Hint Light Bulb",
+      "use": "Optional hints, examples, or vocabulary support",
+      "alt": "A marigold light bulb with a coral filament and mint base.",
+      "image": "props/hint-light-bulb.png",
+      "transparent": true
+    },
+    {
+      "id": "detail-highlighter",
+      "name": "Detail Highlighter",
+      "use": "Point out a specific detail or emphasize a word",
+      "alt": "A mint highlighter with a coral chisel tip and cap.",
+      "image": "props/detail-highlighter.png",
+      "transparent": true
+    },
+    {
+      "id": "linked-paper-clips",
+      "name": "Linked Paper Clips",
+      "use": "Connect an ending to a detail or group related ideas",
+      "alt": "Two linked paper clips in coral and mint.",
+      "image": "props/linked-paper-clips.png",
+      "transparent": true
+    },
+    {
+      "id": "team-pennant",
+      "name": "Team Pennant",
+      "use": "Team setup, team labels, or active team display",
+      "alt": "A blank marigold pennant with coral trim on an indigo pole.",
+      "image": "props/team-pennant.png",
+      "transparent": true
+    },
+    {
+      "id": "score-star",
+      "name": "Score Star",
+      "use": "Show earned points or celebrate a completed round",
+      "alt": "A marigold five-pointed star with a thin coral edge.",
+      "image": "props/score-star.png",
+      "transparent": true
+    },
+    {
+      "id": "next-turn-arrow",
+      "name": "Next Turn Arrow",
+      "use": "Pass the turn, move to the next team, or start a new round",
+      "alt": "A mint curved arrow with an indigo outline and coral edge.",
+      "image": "props/next-turn-arrow.png",
+      "transparent": true
+    }
+  ]
+}

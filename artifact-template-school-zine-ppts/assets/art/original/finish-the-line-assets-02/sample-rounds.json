@@ -1,0 +1,72 @@
+{
+  "title": "Finish the Line",
+  "rounds": [
+    {
+      "id": "cardboard-arcade",
+      "name": "The Cardboard Arcade",
+      "promptType": "Proverb",
+      "opener": "Don’t judge a book by …",
+      "situation": "At the school fair, you walk past a game made from an old cardboard box. You think it looks boring. Then a classmate tilts the box, and a marble rolls through a clever maze.",
+      "discussion": "Would your ending change what you do next? Explain using one detail from the fair.",
+      "traditionalEnding": "its cover.",
+      "traditionalMeaning": "Find out what something is really like before judging it by its appearance.",
+      "imageId": "cardboard-arcade"
+    },
+    {
+      "id": "book-drive",
+      "name": "The Book Drive",
+      "promptType": "Proverb",
+      "opener": "Many hands make …",
+      "situation": "Two boxes of books need to go into the library before lunch. They’re too heavy for you to carry alone. Three classmates have just arrived.",
+      "discussion": "What would you ask your classmates to do? Explain how your ending helps or where it falls short.",
+      "traditionalEnding": "light work.",
+      "traditionalMeaning": "A job is easier when people share the work.",
+      "imageId": "book-drive"
+    },
+    {
+      "id": "tiny-greenhouse-door",
+      "name": "The Greenhouse Door",
+      "promptType": "Story",
+      "opener": "I was about to leave when I noticed …",
+      "situation": "While watering plants in the school greenhouse, you spot a tiny door at the base of a flowerpot. A trail of muddy footprints leads away from it.",
+      "discussion": "Read your ending aloud. Which detail might turn it into the start of a mystery? If it clashes with the scene, explain why.",
+      "imageId": "tiny-greenhouse-door"
+    },
+    {
+      "id": "trophy-case-duck",
+      "name": "The Trophy Case Duck",
+      "promptType": "Story",
+      "opener": "I should have left it where it was, but …",
+      "situation": "You find a rubber duck under the school trophy case. You’ve seen four more today, and each one was somewhere you went with your friend yesterday.",
+      "discussion": "What does your finished line suggest you do with the duck? Explain what the places you found the ducks might tell you.",
+      "imageId": "trophy-case-duck"
+    },
+    {
+      "id": "wrong-group-chat",
+      "name": "The Wrong Group Chat",
+      "promptType": "Dialogue",
+      "opener": "The first thing I said was …",
+      "situation": "You sent a message about a surprise for your friend to the class group chat. Your friend is in that chat. They’re sitting next to you and just picked up their phone.",
+      "discussion": "How would your friend respond to your line? Use one detail to explain your prediction.",
+      "imageId": "wrong-group-chat"
+    },
+    {
+      "id": "last-seat",
+      "name": "The Last Window Seat",
+      "promptType": "Dialogue",
+      "opener": "I looked at the empty seat and said …",
+      "situation": "There’s one window seat left on the bus. You wanted it all morning. A classmate behind you says looking out the window helps when they feel sick on the bus.",
+      "discussion": "Whose needs does your line address? Use one detail from the bus scene to explain how it fits or misses the moment.",
+      "imageId": "last-seat"
+    },
+    {
+      "id": "tortoise-on-the-move",
+      "name": "Tortoise on the Move",
+      "promptType": "Announcement",
+      "opener": "If you’re near the library, please …",
+      "situation": "The science room’s pet tortoise is slowly crossing the hallway toward the library. The bell has just rung, and students are about to come out of class.",
+      "discussion": "What would students do if they heard your announcement? Which detail about the hallway should they know?",
+      "imageId": "tortoise-on-the-move"
+    }
+  ]
+}
