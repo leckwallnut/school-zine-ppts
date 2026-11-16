@@ -54,3 +54,7 @@ In other assistants, ask in ordinary words ("Use the School Zine PPTs skill to .
 - This is a compressed copy sized for slides. Opaque pictures are JPEG and transparent pictures stay PNG; the catalog records each picture's size and checksum.
 - The artwork is AI-generated illustration, not documentary evidence. Cite real sources separately when a lesson needs evidence.
 - The slides use Arial. You need PowerPoint (or another editor) to open and adapt the decks, and an assistant that can write PowerPoint files to create new ones.
+
+## License
+
+[CC BY-NC 4.0](LICENSE): free to share and adapt with credit, not for commercial use. The license covers the skill's own slides, images and guides.
